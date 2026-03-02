@@ -42,3 +42,18 @@ section {
     margin: 40px 10%;
     border-radius: 10px;
 }
+.about-info li, .about-list li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+    font-size: 1.05rem;
+}
+
+.about-info strong {
+    color: #a58bff;
+}
+
+#about h2 {
+    margin-top: 25px;
+    color: #c2aaff;
+    font-size: 1.4rem;
+}
