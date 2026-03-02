@@ -57,3 +57,12 @@ section {
     color: #c2aaff;
     font-size: 1.4rem;
 }
+#contact a {
+    color: #a58bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+#contact a:hover {
+    color: #fff;
+}
